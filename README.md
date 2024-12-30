@@ -21,3 +21,36 @@ gitlab Q&amp;A
 19) What is GitLab CI/CD’s ‘needs’ keyword?
 20) What are extends in GitLab CI/CD?
 21) How do you set up pipeline notifications in GitLab?
+
+
+
+
+
+Key Responsibilities:
+
+GitLab Administration:
+Manage, configure, and maintain GitLab instances (self-hosted or cloud-based).
+Ensure security, performance, and scalability of GitLab repositories.
+Monitor and troubleshoot GitLab services, ensuring high availability and uptime.
+Perform regular GitLab backups and disaster recovery operations.
+
+CI/CD Pipeline Management:
+Design, implement, and optimize CI/CD pipelines in GitLab.
+Automate build, test, and deployment processes using GitLab CI/CD.
+Integrate GitLab with various tools like Jenkins, Kubernetes, Docker, Terraform, etc.
+Manage and monitor GitLab runners, ensuring optimal performance.
+
+Version Control & Branch Management:
+Implement version control strategies using GitLab for source code management.
+Manage repository access, user permissions, and project configurations.
+Enforce branching strategies, merge requests, and code reviews.
+
+Collaboration & Support:
+Collaborate with development teams to ensure seamless integration of GitLab into workflows.
+Provide support for GitLab-related issues and troubleshooting.
+Develop internal documentation, including best practices and process workflows.
+
+Infrastructure & Automation:
+Automate and streamline infrastructure management using tools such as Ansible, Terraform, or Kubernetes.
+Manage cloud infrastructure for CI/CD workflows, particularly in AWS, Azure, or GCP.
+Work with infrastructure teams to ensure GitLab is well-integrated into the overall infrastructure landscape.
